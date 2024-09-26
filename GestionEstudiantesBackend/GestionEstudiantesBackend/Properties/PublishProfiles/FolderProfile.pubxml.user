@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Publicacion\GestionEstudiantes</_PublishTargetUrl>
+    <History>True|2024-09-25T22:14:08.1517139Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="SQLConnString_GestionEstudiantes">
+      <Value>Server=LAPTOP-DJSKIBK6%3bDatabase=GestionEstudiantes%3b User=sa%3b password=admin1234%3bMultipleActiveResultSets=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
